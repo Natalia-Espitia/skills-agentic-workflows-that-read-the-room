@@ -8,6 +8,7 @@ permissions:
   contents: read
   pull-requests: read
 engine: copilot
+model: gpt-5.5
 tools:
   github:
     toolsets: [context, repos, pull_requests]
@@ -17,7 +18,7 @@ network:
   allowed:
     - github.blog
     - github.com
-    - awesome-copilot.github.com
+    - awesome-copilot.github.com   
 safe-outputs:
   create-pull-request:
     max: 1
