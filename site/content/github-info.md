@@ -14,3 +14,9 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+
+---
+
+### Update (2026-10-02)
+
+GitHub Copilot Chat is now generally available for all individual GitHub Copilot users in supported IDEs. This means you can ask Copilot questions, get code explanations, and generate code directly in your editor. [Source: github.blog/changelog]
